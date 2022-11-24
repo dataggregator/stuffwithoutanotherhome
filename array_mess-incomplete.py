@@ -77,7 +77,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "# this does not work in python any way i have tried it.\n",
+    "# this does not work in python all the ways ive tried so far.\n",
     "def delete(arr, n, x):\n",
     "    for i in range(0, n):\n",
     "        if arr[i] == x:\n",
